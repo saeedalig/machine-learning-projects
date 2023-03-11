@@ -1,4 +1,4 @@
-### Learn and Let Others Learn
+### Learn and Let Others Learn.
 
 ## Start Machine Learning Project
 
