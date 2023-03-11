@@ -1,6 +1,6 @@
 ### Learn and Let Others Learn
 
-## Start Machine Learning Project.
+## Start Machine Learning Project
 
 #### Software and account Requirement.
 
