@@ -12,10 +12,12 @@
 5. [GIT Documentation](https://git-scm.com/docs/gittutorial)
 
 
-##### Creating conda Environment
+##### Creating conda Environment and Activate 
 
 conda create -p venv python==3.7 -y
 
 
 conda activate venv/
 
+##### Installing the requirements
+pip install -r requirements.txt
